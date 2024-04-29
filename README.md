@@ -1,4 +1,4 @@
-# Happy R Tutorial - How to build a complete pipeline for machine learning with {tidymodels} <a href="https://stateofther.netlify.app/"><img src="img/hex_sotr.png" align="right" height="138"/></a>
+#RLadies Paris Presentation - How to build a complete pipeline for machine learning with {tidymodels} <a href="https://www.meetup.com/rladies-paris/"><img src="_extensions/rladies/logo.png" align="right" height="138"/></a>
 
 Dépôt du tutoriel donné lors de la présentation faite aux RLadies à Paris le 29 avril 2024, adapté de celui donné aux [Rencontres R 2023 à Avignon](https://rr2023.sciencesconf.org) avec Antoine Bichat.
 

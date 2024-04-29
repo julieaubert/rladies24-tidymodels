@@ -53,6 +53,8 @@ Impliquée dans la communauté R
 - Animatrice de [StateOftheR](https://stateofther.netlify.app/) 
 - Maintenance [ctv omics](https://CRAN.R-project.org/view=Omics)
 - Membre du comité de pilotage des rencontres R
+
+ <a href="https://stateofther.netlify.app/"><img src="img/hex_sotr.png" align="left" height="138"/></a>
 :::
 
 ::: {.column width="20%"}
